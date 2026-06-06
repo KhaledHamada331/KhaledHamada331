@@ -41,15 +41,13 @@
 ### 📊 GitHub Dynamics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.co/api?username=KhaledHamada331&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=KhaledHamada331&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledHamada331&theme=tokyonight&bg_color=1a1b26&custom_title=GitHub%20Contribution%20Graph" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KhaledHamada331&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
----
 
 ### 🏆 Featured Projects
 
@@ -58,7 +56,7 @@
 | **[🔧 DR Compiler](https://github.com/KhaledHamada331/DRCompiler)** | Engineered a complete language compiler pipeline from scratch, architecting the custom Lexical Analyzer (Tokenizer), Syntax Parser, and AST generation to process and validate source code syntax. | `C#`, `.NET`, `WinForms` |
 | **[🪑 Furniture Enterprise](https://github.com/KhaledHamada331/Furniture-Enterprise-System)** | Architected a production-ready, full-stack enterprise e-commerce infrastructure featuring secure user authentication, modular inventory control pipelines, and automated order management workflows. | `ASP.NET Core MVC`, `SQL Server` |
 | **[🏥 Hospital System](https://github.com/KhaledHamada331/HospitalSystem)** | Developed a highly optimized medical facility management core using low-level, custom-implemented linked lists to handle concurrent patient queuing and memory-efficient record scheduling. | `C++`, `Data Structures` |
-| **[🗄️ Distributed Database System](https://github.com/KhaledHamada331)** | Built a custom distributed database architectural prototype. Implemented a synchronous Master-Slave replication logic using Go routines and channels alongside an automated heartbeat mechanism for continuous node health tracking. | `Go (Golang)`, `Goroutines`, `Channels`, `MySQL` |
+| **[🗄️ Distributed Database System](https://github.com/KhaledHamada331/Distributed-Database-Project)** | Built a custom distributed database architectural prototype. Implemented a synchronous Master-Slave replication logic using Go routines and channels alongside an automated heartbeat mechanism for continuous node health tracking. | `Go (Golang)`, `Goroutines`, `Channels`, `MySQL` |
 
 ---
 
