@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Computer Science graduate @ Faculty of Computers and Information, Assiut University.
+- 🎓 **Education:** Computer Science graduate from Faculty of Computers and Information, Assiut University.
 - 💻 **Passionate:** Building scalable, secure, and robust web applications with **.NET Core**.
 - 🌱 **Learning:** Deeply exploring **Clean Architecture**, **Design Patterns**, and Enterprise Software Architecture.
 - 📫 **Reach me at:** **khaledhamadamoh331@gmail.com**
