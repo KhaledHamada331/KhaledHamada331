@@ -8,7 +8,7 @@
   <a href="mailto:khaledhamadamoh331@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="http://khaledhamada.me">
+  <a href="http://khaledhamada.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
